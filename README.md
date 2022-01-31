@@ -1,6 +1,6 @@
 # Software-Project-1-Assignment-1
 
-#This is my assignment.
+# This is my assignment.
 ##  I learend
 * Repository initialization
 * Adding files to git
